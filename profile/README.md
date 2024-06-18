@@ -2,7 +2,7 @@
 
 🙋‍♀️ Welcome to the JWST's Homoegeneous Information-rich Visualization of Extragalactic Datasets or J-HIVE! 
 
-🌈 If you would like to learn more, contact [Professor Lamiya Mowla](https://www.lamiyamowla.com/) or [Dr. Kartheik Iyer](https://kartheikiyer.github.io/)
+🌈 If you would like to learn more, contact [Lamiya Mowla](https://www.lamiyamowla.com/) or [Kartheik Iyer](https://kartheikiyer.github.io/)
 
 <!--
 
